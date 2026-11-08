@@ -1,0 +1,18 @@
+finding,hard labels (sure only),soft labels (probability-weighted),sample,note
+Labelled clips,"120 (100 sure, 20 with probability between 0.4 and 0.6)",,—,"FI junction zone, blind clips; round 1: consensus of 2 annotators, rounds 2-3: consensus of 3 annotators; probability-based labels"
+Real near-miss share: engine High,48% (15/31),51% (21.4/42),n=42,
+Real near-miss share: engine Medium,16% (5/32),24% (10.1/42),n=42,
+Real near-miss share: engine Low,0% (0/18),1% (0.1/18),n=18,
+Real near-miss share: Critique Rejected,0% (0/18),4% (0.7/18),n=18,Critique never removed a sure real near-miss
+Precision of Annex High+Medium,32%,38%,n=84,about 6 in 10 alerts are not real near-misses
+AUC engine risk score,"0.81 (LOO, sure labels)",0.77,n=100 / 120,
+AUC observed min clearance,0.79,0.79,n=100 / 120,best single soft predictor
+Graded rho: engine risk score vs human risk 0-3,0.46,,n=60,p < 0.001
+Graded rho: observed min clearance vs human risk,-0.62,,n=60,strongest relation
+Graded rho: min TTC vs human risk,-0.52,,n=60,
+Engine type = human type (exact / family),86% / 94%,,n=114,
+Engine rear-end events that were overtakes,9/20 = 45% (primary 6/20 = 30%),,n=20 rear-end set,supports the overtake suspicion
+Auto overtake flag vs human,"recall 10/12 = 83%, precision 10/15 = 67%",,n=42,
+Real near-miss share: overtake vs plain rear end,50% vs 15%,52% vs 19%,n=12 vs 30,overtakes are the risky same-direction events
+Calibration (soft) p_real = 1/(1+exp(-(-3.96 + 0.0623 x risk))),"risk 40 -> 0.19, 50 -> 0.30, 60 -> 0.44, 70 -> 0.60",,n=120,used by refine.py
+"Estimated real near-misses per hour, FI junction",~160 (hard class rates 48% / 16%),~195 (soft class rates 51% / 24%) / ~205 (sum of p_real),2.84 h of video,engine raises ~675 High+Medium alerts per hour there

@@ -1,0 +1,4 @@
+scene,dataset_conflicts,dataset_found_by_engine,dataset_found_as_accepted_high_or_medium,engine_accepted_high_medium,engine_events_also_in_dataset,same_conflict_type_share,ttc_mean_abs_diff_s,site,video,minutes,road_users,accepted,rejected,high,medium,junction_box,runtime_s
+20250120_video_Traj,80,65,50,1240,51,0.785,0.311,FIDRT,20250120_video,21.2,1713,2083,406,387,853,"[-18.6, 20.4, -25.4, 25.1]",52.7
+20250525_video_Traj,25,21,20,514,20,0.762,0.355,FIDRT,20250525_video,6.8,604,895,145,155,359,"[-18.7, 23.4, -27.8, 22.9]",18.6
+20250526_video_Traj,42,33,27,2061,27,0.788,0.429,FIDRT,20250526_video,28.8,2204,3336,630,588,1473,"[-19.9, 23.4, -28.4, 27.0]",62.4

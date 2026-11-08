@@ -1,0 +1,14 @@
+,v2 (shape+gates),"pilot-style (1 circle, no gate)"
+hours,3.78,3.78
+High+Medium per hour (all users),5589.0,5111.0
+High per hour (all users),1737.0,1469.0
+High+Medium per hour (motor vehicles),1349.0,1295.0
+dataset conflicts found (any event),0.827,0.812
+dataset conflicts found (accepted High/Medium),0.712,0.697
+conflict-type agreement,0.837,0.857
+TTC mean abs diff vs dataset (s),0.414,0.44
+rejected by Critique,0.17,0.183
+vehicle-pedestrian High+Medium,1100.0,938.0
+share in junction zone,0.192,0.163
+share in approach zone,0.656,0.664
+share in far zone,0.152,0.173

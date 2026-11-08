@@ -1,0 +1,10 @@
+,value
+hours_analysed,3.78
+road_users,19345.0
+dataset_conflicts,786.0
+dataset_conflicts_matched_by_any_event,0.827
+conflict_type_agreement,0.837
+ttc_correlation_with_dataset,0.645
+ttc_mean_abs_diff_s,0.414
+critique_rejected_share,0.17
+high_with_red_light_runner,138.0

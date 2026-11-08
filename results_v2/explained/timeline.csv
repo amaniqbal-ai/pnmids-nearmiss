@@ -1,0 +1,69 @@
+event_id,frame,time_s,who,what,detail
+FI_20250120_video_3280,7052,705.2,both,closest approach,0.26 m at 40 km/h
+FI_20250120_video_6953,15694,1569.4,both,conflict starts,"TTC 2.8 s, gap 11.9 m"
+FI_20250120_video_6953,15724,1572.4,both,critical,"TTC 0.1 s, gap 0.0 m"
+FI_20250120_video_6953,15724,1572.4,both,minimum TTC,0.10 s
+FI_20250120_video_6953,15724,1572.4,both,closest approach,0.00 m at 18 km/h
+FI_20250120_video_3033,6179,617.9,both,conflict starts,"TTC 2.9 s, gap 30.3 m"
+FI_20250120_video_3033,6187,618.7,both,minimum TTC,2.20 s
+FI_20250120_video_3033,6213,621.3,both,closest approach,0.00 m at 29 km/h
+FI_20250121_video-1_4242,12872,1287.2,red car #2433,entered on AMBER,crossed the stop line against the signal
+FI_20250121_video-1_4242,12901,1290.1,blue car #2505,entered on RED,crossed the stop line against the signal
+FI_20250121_video-1_4242,12923,1292.3,both,closest approach,0.38 m at 28 km/h
+FI_20250121_video-1_3245,9922,992.2,red car #1886,braking,"21 to 14 km/h in 1.2 s, peak -1.6 m/s2"
+FI_20250121_video-1_3245,9934,993.4,both,conflict starts,"TTC 0.3 s, gap 0.1 m"
+FI_20250121_video-1_3245,9934,993.4,both,critical,"TTC 0.3 s, gap 0.1 m"
+FI_20250121_video-1_3245,9935,993.5,both,closest approach,0.00 m at 13 km/h
+FI_20250121_video-1_3245,9937,993.7,both,minimum TTC,0.00 s
+FI_20250121_video-1_3579,10948,1094.8,both,conflict starts,"TTC 2.1 s, gap 16.3 m"
+FI_20250121_video-1_3579,10953,1095.3,both,minimum TTC,1.80 s
+FI_20250121_video-1_3579,10980,1098.0,both,closest approach,0.00 m at 12 km/h
+FI_20250121_video-3_2779,7109,710.9,both,conflict starts,"TTC 1.6 s, gap 22.9 m"
+FI_20250121_video-3_2779,7111,711.1,red car #1624,hard braking,"25 to 11 km/h in 1.5 s, peak -3.8 m/s2"
+FI_20250121_video-3_2779,7111,711.1,both,critical,"TTC 1.4 s, gap 19.6 m"
+FI_20250121_video-3_2779,7111,711.1,both,minimum TTC,1.40 s
+FI_20250121_video-3_2779,7114,711.4,blue car #1652,braking,"39 to 32 km/h in 1.1 s, peak -1.9 m/s2"
+FI_20250121_video-3_2779,7131,713.1,both,closest approach,0.22 m at 31 km/h
+FI_20250525_video-1_1827,6487,648.7,both,conflict starts,"TTC 1.9 s, gap 14.8 m"
+FI_20250525_video-1_1827,6496,649.6,both,critical,"TTC 1.4 s, gap 8.6 m"
+FI_20250525_video-1_1827,6508,650.8,both,minimum TTC,0.90 s
+FI_20250525_video-1_1827,6517,651.7,both,closest approach,0.00 m at 15 km/h
+FI_20250525_video-1_684,2759,275.9,both,closest approach,0.00 m at 29 km/h
+FI_20250525_video-1_2777,8484,848.4,both,closest approach,0.00 m at 16 km/h
+FI_20250525_video-1_1840,6491,649.1,both,conflict starts,"TTC 2.9 s, gap 25.3 m"
+FI_20250525_video-1_1840,6513,651.3,both,critical,"TTC 1.4 s, gap 7.2 m"
+FI_20250525_video-1_1840,6528,652.8,both,minimum TTC,0.30 s
+FI_20250525_video-1_1840,6531,653.1,both,closest approach,0.00 m at 15 km/h
+FI_20250525_video-1_986,3702,370.2,both,closest approach,0.50 m at 24 km/h
+FI_20250525_video-2_1145,3493,349.3,blue moped #940,braking,"31 to 17 km/h in 1.9 s, peak -2.3 m/s2"
+FI_20250525_video-2_1145,3502,350.2,both,conflict starts,"TTC 1.6 s, gap 16.1 m"
+FI_20250525_video-2_1145,3503,350.3,both,critical,"TTC 1.3 s, gap 14.8 m"
+FI_20250525_video-2_1145,3512,351.2,both,minimum TTC,0.50 s
+FI_20250525_video-2_1145,3513,351.3,red car #910,braking,"25 to 15 km/h in 1.3 s, peak -2.2 m/s2"
+FI_20250525_video-2_1145,3522,352.2,both,closest approach,0.00 m at 16 km/h
+FI_20250525_video-2_1145,3533,353.3,blue moped #940,braking,"20 to 11 km/h in 1.3 s, peak -2.1 m/s2"
+FI_20250525_video-2_2816,7537,753.7,red car #1941,entered on AMBER,crossed the stop line against the signal
+FI_20250525_video-2_2816,7613,761.3,both,conflict starts,"TTC 0.2 s, gap 0.0 m"
+FI_20250525_video-2_2816,7613,761.3,both,critical,"TTC 0.2 s, gap 0.0 m"
+FI_20250525_video-2_2816,7614,761.4,both,minimum TTC,0.10 s
+FI_20250525_video-2_2816,7614,761.4,both,closest approach,0.00 m at 20 km/h
+FI_20250525_video-2_5056,14282,1428.2,blue car #3540,entered on RED,crossed the stop line against the signal
+FI_20250525_video-2_5056,14303,1430.3,both,closest approach,0.43 m at 23 km/h
+FI_20250525_video-2_158,581,58.1,both,conflict starts,"TTC 2.0 s, gap 18.6 m"
+FI_20250525_video-2_158,585,58.5,both,critical,"TTC 1.4 s, gap 14.3 m"
+FI_20250525_video-2_158,590,59.0,both,minimum TTC,1.00 s
+FI_20250525_video-2_158,605,60.5,both,closest approach,0.16 m at 28 km/h
+FI_20250525_video-2_507,1568,156.8,red car #248,braking,"17 to 7 km/h in 1.7 s, peak -2.0 m/s2"
+FI_20250525_video-2_507,1584,158.4,both,conflict starts,"TTC 2.9 s, gap 23.1 m"
+FI_20250525_video-2_507,1618,161.8,both,critical,"TTC 1.4 s, gap 3.0 m"
+FI_20250525_video-2_507,1631,163.1,both,minimum TTC,0.00 s
+FI_20250525_video-2_507,1631,163.1,both,closest approach,0.00 m at 17 km/h
+FI_20250530_video-1_859,4376,437.6,both,conflict starts,"TTC 2.6 s, gap 19.6 m"
+FI_20250530_video-1_859,4388,438.8,both,minimum TTC,1.60 s
+FI_20250530_video-1_859,4405,440.5,both,closest approach,0.18 m at 15 km/h
+FI_20250530_video-2_1437,9141,914.1,both,conflict starts,"TTC 2.4 s, gap 18.7 m"
+FI_20250530_video-2_1437,9144,914.4,both,minimum TTC,2.10 s
+FI_20250530_video-2_1437,9170,917.0,both,closest approach,0.00 m at 18 km/h
+FI_20250530_video-2_529,3487,348.7,red car #442,braking,"15 to 6 km/h in 1.6 s, peak -1.6 m/s2"
+FI_20250530_video-2_529,3502,350.2,both,closest approach,0.47 m at 29 km/h
+FI_20250530_video-2_529,3532,353.2,blue car #495,braking,"27 to 20 km/h in 1.2 s, peak -1.4 m/s2"

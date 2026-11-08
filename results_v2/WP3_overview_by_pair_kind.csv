@@ -1,0 +1,9 @@
+site,pair_kind,High,Medium,per_hour
+FI,moped-moped,3240,5092,2939.0
+FI,vehicle-moped,906,2940,1356.6
+FI,vehicle-pedestrian,255,594,299.5
+FI,vehicle-vehicle,1036,3258,1514.6
+FIDRT,moped-moped,664,1661,2456.0
+FIDRT,vehicle-moped,102,331,457.4
+FIDRT,vehicle-pedestrian,67,184,265.1
+FIDRT,vehicle-vehicle,297,509,851.4

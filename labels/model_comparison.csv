@@ -1,0 +1,9 @@
+model,how_tested,AUC,precision_at_80pct_recall,flagged_at_80pct_recall
+Annex rule: High+Medium (current),no fitting,0.728,0.4,42
+Annex rule: High only,no fitting,0.756,0.33,51
+Engine risk score (current),no fitting,0.807,0.46,37
+Engine min TTC (lower = riskier),no fitting,0.729,0.5,34
+Observed min clearance (lower = riskier),no fitting,0.792,0.5,34
+LR: risk score + min clearance,leave-one-out,0.805,0.47,36
+LR: TTC + min clearance + time below 2 m,leave-one-out,0.778,0.5,34
+LR: TTC + clearance + below2m + braking + overtake,leave-one-out,0.731,0.37,46
