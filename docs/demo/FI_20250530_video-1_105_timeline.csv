@@ -1,0 +1,6 @@
+frame,actor,who,what,detail,time_s,event_id
+667,pair,both,conflict starts,"TTC 2.9 s, gap 53.3 m",66.7,FI_20250530_video-1_105
+676,b,blue car #122,hard braking,"48 to 14 km/h in 3.6 s, peak -3.8 m/s2",67.6,FI_20250530_video-1_105
+691,pair,both,critical,"TTC 1.4 s, gap 16.1 m",69.1,FI_20250530_video-1_105
+700,pair,both,minimum TTC,0.90 s,70.0,FI_20250530_video-1_105
+722,pair,both,closest approach,0.00 m at 13 km/h,72.2,FI_20250530_video-1_105

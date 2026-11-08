@@ -82,3 +82,14 @@ Use `--event-ids <id> <id>` instead of `--top N` for chosen events.
 Small labelled sample (120 clips, one junction); consensus labels without an agreement score;
 assumed sizes and masses for mopeds, trucks and buses; behaviour thresholds in `explain.py`
 (braking, acceleration, swerve) are engineering defaults that still need validation against labels.
+
+## Demo: annotated near-miss videos (v2)
+
+Each video shows the two road users (red, blue), a line coloured by live TTC, every action tagged on the frame it happens, and the cause -> response -> outcome explanation.
+
+| Event | Storyboard (cause, response, closest approach) | Video |
+| --- | --- | --- |
+| Head-on, left turn across, hard braking | ![](docs/demo/FI_20250530_video-1_105_storyboard.jpg) | [video](docs/demo/FI_20250530_video-1_105.mp4) |
+| Angle, left turn across a moped | ![](docs/demo/FI_20250121_video-1_5568_storyboard.jpg) | [video](docs/demo/FI_20250121_video-1_5568.mp4) |
+| Rear end, moped braking | ![](docs/demo/FI_20250525_video-2_539_storyboard.jpg) | [video](docs/demo/FI_20250525_video-2_539.mp4) |
+| Angle, moped braking | ![](docs/demo/FI_20250525_video-2_2257_storyboard.jpg) | [video](docs/demo/FI_20250525_video-2_2257.mp4) |

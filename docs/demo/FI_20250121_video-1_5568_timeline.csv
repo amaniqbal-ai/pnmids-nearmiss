@@ -1,0 +1,4 @@
+frame,actor,who,what,detail,time_s,event_id
+16433,a,red car #3165,entered on RED,crossed the stop line against the signal,1643.3,FI_20250121_video-1_5568
+16527,a,red car #3165,braking,"16 to 8 km/h in 1.0 s, peak -2.4 m/s2",1652.7,FI_20250121_video-1_5568
+16546,pair,both,closest approach,0.31 m at 16 km/h,1654.6,FI_20250121_video-1_5568

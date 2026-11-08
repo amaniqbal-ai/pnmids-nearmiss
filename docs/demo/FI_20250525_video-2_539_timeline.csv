@@ -1,0 +1,6 @@
+frame,actor,who,what,detail,time_s,event_id
+1639,pair,both,conflict starts,"TTC 2.7 s, gap 8.7 m",163.9,FI_20250525_video-2_539
+1653,b,blue moped #423,braking,"26 to 13 km/h in 2.4 s, peak -1.6 m/s2",165.3,FI_20250525_video-2_539
+1660,pair,both,critical,"TTC 1.3 s, gap 2.9 m",166.0,FI_20250525_video-2_539
+1662,pair,both,minimum TTC,1.10 s,166.2,FI_20250525_video-2_539
+1674,pair,both,closest approach,1.43 m at 14 km/h,167.4,FI_20250525_video-2_539
